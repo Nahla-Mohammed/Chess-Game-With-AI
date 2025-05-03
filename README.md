@@ -5,8 +5,8 @@ Chess is a strategic board game that people play and enjoy competing each other.
 # AI algorithms:
 We use MiniMax algorithm and optimized with alpha-beta pruning to enhamce the performance
 # How to play:
-'r' -> to reset the game
-'t'-> to change the theme between Green,Brown,Blue, and Gray
-'a' -> to change the gamemode between AI vs human, and human vs human
+'r' -> to reset the game                                                                                                                                                                                                
+'t'-> to change the theme between Green,Brown,Blue, and Gray                                                                                                                                                            
+'a' -> to change the gamemode between AI vs human, and human vs human                                                                                                                                                    
 3 or 4 -> to change AI depth
 
